@@ -1,0 +1,18 @@
+Table product.car {
+  id int
+  no_police varchar
+  brand varchar
+  model varchar
+  image varchar
+  price_perday int
+  capacity int
+  status boolean
+  transmision varchar
+  type varchar
+  
+  "created_at" varchar
+  "updated_at" varchar
+  "deleted_at" varchar
+  
+}
+
